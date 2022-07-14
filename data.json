@@ -1,6 +1,5 @@
 [
-    {
-        "color": "#fff",
-        "duration": 1500
-    }
+  { "duration": 2800, "color": "#8c00ff" },
+  { "duration": 4000, "color": "#ff00ea" },
+  { "duration": 2000, "color": "#00ff4c" }
 ]

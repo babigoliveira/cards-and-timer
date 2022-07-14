@@ -1,11 +1,7 @@
 import Card from "./components/Card/Card";
 import styled from "styled-components";
 
-const cards = [
-  { duration: 2800, color: "#8c00ff" },
-  { duration: 4000, color: "#ff00ea" },
-  { duration: 2000, color: "#00ff4c" },
-];
+import cards from "../data.json";
 
 const Container = styled.div`
   padding: 20px 20px; ;
